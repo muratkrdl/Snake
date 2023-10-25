@@ -114,6 +114,7 @@ public class SnakeController : MonoBehaviour
 
     public void RestartGame()
     {
+        Time.timeScale = 1;
         int index = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(index);
     }
