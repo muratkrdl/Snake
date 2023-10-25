@@ -10,7 +10,7 @@ The snake hits itself or hits the wall the game is over
 
 # Gameplay
 
-<img src="https://github.com/muratkrdl/Snake/blob/main/Gameplay.gif" width="600">
+<img src="https://github.com/muratkrdl/Snake/blob/main/Gameplay.gif" width="450">
 
 ## Authors
 
