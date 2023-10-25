@@ -1,7 +1,7 @@
 
 # Snake
 
-The goal in the game is eat all the apples
+The goal in the game is to eat all the apples
 
 The player gets point when the snake eats an apple
 
